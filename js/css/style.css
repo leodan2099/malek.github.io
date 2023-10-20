@@ -1,0 +1,21 @@
+#text{
+    color: black;
+    font-size: 50px;
+    font-family: Vazir;
+}
+
+input{
+    width: 200px;
+    padding: 20px 10px ;
+    background: black;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    font-family: Vazir;
+    border: none;
+    transition:1s;
+}
+
+input:hover{
+    background: linear-gradient(90deg , #0b527e, #52ade5);
+}
